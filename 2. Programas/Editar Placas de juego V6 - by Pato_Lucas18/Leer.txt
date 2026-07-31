@@ -1,0 +1,31 @@
+Editar Placas de Juego V6:
+
+He dejado un psd para que pueda usarlo como ejemplo, las placas fijas solamente no deberia moverlas!
+
+Una vez creada la textura debe seguir estos paso:
+
+1- Para editar  las placas abra con PES6UltimateScoreboardEditor algunos de los archivos unknow_bin,
+por ejemplo el unknow_00593.bin_Marcador que es del marcador.
+
+Nota: 
+unknow_00593.bin_Marcador_Goles, antes de editar este archivo, deben ejecutar el achivo bat "unknow_00593.bin_Marcador_Goles - Ejecutar
+
+2- Debe mover los nombre escudo, puede cambiar el tamaño de los escudo, solo para los cambios no se puede cambiar el tamaño.
+
+3- Luego tiene  que crear el archivo .opd con el programa llamado placas. seleccione  color, tamaño y alineacion de la fuente y la modalidad!
+
+
+Usando el Game Graphic Studio deben insertar las texturas en el unknow_00151, en el programa se 
+encuentra el map de la correspondencia de la textura para cada competencia y el archivo para insertarlas en diferentes calidades!
+
+
+
+Video Tutorial de pantallas que es parecido a este proceso:
+De este video tambien pueden encontrar el link de los programas necesarios!
+ https://youtu.be/MdBBAT466wY
+
+
+Revisar este tema para mas informacion:
+http://foro.pesretro.net/showthread.php?tid=10406
+
+Saludos Pato_Lucas18 

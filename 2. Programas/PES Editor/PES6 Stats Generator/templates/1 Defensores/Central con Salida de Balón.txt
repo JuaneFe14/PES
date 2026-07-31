@@ -1,0 +1,42 @@
+Foot: R
+Side: B
+Positions: CBT*, CB, CWP
+Injury Tolerance: A
+
+STATS:
+Attack: 55
+Defence: 82
+Balance: 78
+Stamina: 72
+Top Speed: 71
+Acceleration: 70
+Response: 81
+Agility: 65
+Dribble Accuracy: 67
+Dribble Speed: 66
+Short Pass Accuracy: 68
+Short Pass Speed: 69
+Long Pass Accuracy: 72
+Long Pass Speed: 66
+Shot Accuracy: 53
+Shot Power: 71
+Shot Technique: 51
+Free Kick Accuracy: 54
+Curling: 56
+Header: 72
+Jump: 74
+Technique: 72
+Aggression: 52
+Mentality: 75
+Keeper Skills: 50
+Teamwork: 71
+Consistency: 7
+Condition/Fitness: 7
+Weak Foot Accuracy: 5
+Weak Foot Frequency: 5
+
+SPECIAL ABILITIES:
+* Outside
+* Marking
+* Covering
+* D-Line control

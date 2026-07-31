@@ -1,0 +1,45 @@
+Foot: R
+Side: B
+Positions: CM*, AM, CM
+Injury Tolerance: A
+
+STATS:
+Attack: 70
+Defence: 51
+Balance: 68
+Stamina: 83
+Top Speed: 63
+Acceleration: 64
+Response: 71
+Agility: 61
+Dribble Accuracy: 67
+Dribble Speed: 61
+Short Pass Accuracy: 73
+Short Pass Speed: 80
+Long Pass Accuracy: 75
+Long Pass Speed: 76
+Shot Accuracy: 73
+Shot Power: 78
+Shot Technique: 71
+Free Kick Accuracy: 73
+Curling: 69
+Header: 62
+Jump: 61
+Technique: 71
+Aggression: 69
+Mentality: 68
+Keeper Skills: 50
+Teamwork: 73
+Consistency: 8
+Condition/Fitness: 8
+Weak Foot Accuracy: 6
+Weak Foot Frequency: 5
+
+SPECIAL ABILITIES:
+* Positioning
+* Reaction
+* Passing
+* Centre
+* Penalties
+* 1-Touch pass
+* Outside

@@ -1,0 +1,39 @@
+Foot: L
+Side: R
+Positions: SB*, SB, SM
+Injury Tolerance: A
+
+STATS:
+Attack: 74
+Defence: 66
+Balance: 74
+Stamina: 87
+Top Speed: 82
+Acceleration: 82
+Response: 72
+Agility: 83
+Dribble Accuracy: 78
+Dribble Speed: 79
+Short Pass Accuracy: 76
+Short Pass Speed: 73
+Long Pass Accuracy: 79
+Long Pass Speed: 76
+Shot Accuracy: 65
+Shot Power: 77
+Shot Technique: 67
+Free Kick Accuracy: 61
+Curling: 64
+Header: 61
+Jump: 77
+Technique: 81
+Aggression: 76
+Mentality: 70
+Keeper Skills: 50
+Teamwork: 76
+Consistency: 6
+Condition/Fitness: 6
+Weak Foot Accuracy: 5
+Weak Foot Frequency: 5
+
+SPECIAL ABILITIES:
+* Outside

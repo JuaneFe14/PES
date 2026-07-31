@@ -1,0 +1,42 @@
+Foot: R
+Side: B
+Positions: GK*, GK
+Injury Tolerance: A
+
+STATS:
+Attack: 47
+Defence: 75
+Balance: 75
+Stamina: 55
+Top Speed: 64
+Acceleration: 67
+Response: 87
+Agility: 77
+Dribble Accuracy: 62
+Dribble Speed: 55
+Short Pass Accuracy: 60
+Short Pass Speed: 55
+Long Pass Accuracy: 59
+Long Pass Speed: 61
+Shot Accuracy: 47
+Shot Power: 76
+Shot Technique: 55
+Free Kick Accuracy: 62
+Curling: 55
+Header: 46
+Jump: 80
+Technique: 67
+Aggression: 65
+Mentality: 73
+Keeper Skills: 73
+Teamwork: 71
+Consistency: 3
+Condition/Fitness: 3
+Weak Foot Accuracy: 5
+Weak Foot Frequency: 5
+
+SPECIAL ABILITIES:
+* Tactical dribble
+* Penalties
+* Outside
+* Penalty stopper

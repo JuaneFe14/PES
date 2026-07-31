@@ -1,0 +1,9 @@
+Pasos:
+1- Exportar sub bin u opd con el zlibtool
+2- Abrir el archivo exportado con el programa.
+3- Elija la modalidad en donde quiere colocar el marcador y graficos. Despues Guarde.
+4- Importar sub bin u opd con el zlibtool
+5- Usando los maps de los archivos debe renombrar los bin u opd segun la modalidad. 
+
+ Elegir la modalidad 
+Creditos: Pato_Lucas18

@@ -1,0 +1,28 @@
+Editor de Marcadores Para WE9-PES5 y PES6
+
+Modo de uso:
+-Abrir un archivo de Scoreboard (CTRL+A) ya sea de WE9-PES5 o PES6, el programa detectará la version de juego 
+-Para guardar los cambios realizados debe presionar (CTRL+G) o ir al menu archivo y guardar.
+-Si decea adaptar un scoreboard para otro Version del juego debe ir a la opcion en el menú de "Guardar Como"
+
+Funciones Extras:
+-Puede cargar los Escudos y Banderas haciendo doble clic a cada uno de ellos.
+-Puede cargar las texturas complementarias del scoreboard (Tiempo Extra, Ataque-Defensa, fuentes, etc.)
+
+
+Nota para WE9-PES5:
+*El WE9 y PES5 usa la tipografia general del juego para el Scoreboard.
+*Para el tamaño de las fuentes en WE9-PES5 recomiendo colocar el tamaño 16 de alto y 16 de ancho. 
+*Si activa la resolucion 1024x600 debes colocar el tamaño de las fuentes en 20 de alto y 26 de ancho. 
+*Para modificar el tamaño de las fuentes usa la opciones de "Pequeño o Grande"
+*Usa la guia Marcadores byJony para una mejor orientacion.
+
+Asi que cuando adapten un scoreboard de PES6 a WE9 tengan en cuenta de modificar las fuentes porque si no se van a ver mal en el juego.
+Si adaptan un scoreboard no olviden dejarle creditos a los autores. No se queden con todos los creditos por solo adaptarlos...
+
+
+Sin mas que decir. Disfruten del Programa
+
+Creditos: Pato_Lucas18
+Agradecimiento a Jony por la busqueda de los offset
+

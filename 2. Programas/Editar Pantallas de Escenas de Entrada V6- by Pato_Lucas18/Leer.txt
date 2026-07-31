@@ -1,0 +1,19 @@
+Crear Escenas de entrada V6:
+
+He dejado un psd para que pueda usarlo como ejemplo, las placas fijas solamente no deberia moverlas!
+
+1- Para editar estos graficos tiene que editar los archivos que he dejado con el PES6UltimateScoreboardEditor (editar como si fuera un marcador)
+2- Luego tiene  que crear el archivo .opd con el programa llamado pantallas. seleccione tamaño de la fuente y color!
+
+Video Tutorial: https://youtu.be/MdBBAT466wY
+
+
+Nuevo opcion para poder remapear la textura y poder mover los graficos!
+ 
+-En los bin de Pantalla, alieaciones, Pos.Liga,Grupos, Lista de titulares y Clima se puede usar las texturas de scoreboard, tv logo y extra, 
+en los demas bin solamente la textura del scoreboard.
+
+- Las alineaciones y lista de titulares ahora pueden usar una textura distinta para local y visitante.
+
+ 
+Pato_Lucas18 

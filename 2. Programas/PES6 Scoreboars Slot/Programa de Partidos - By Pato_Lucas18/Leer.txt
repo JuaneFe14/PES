@@ -1,0 +1,32 @@
+Instalacion:
+copiar y pegar los archivos en el 0_text.afs y s_text.afs,
+
+Para que funcione bien deben instalar todos los archivos que he dejado, 
+tambien deben volver a colocar los fondos que tenian en los anteriores archivos!
+
+Map de unknow_ competiciones
+159 = African Nations Cup  
+160 = Copa America  
+161 = Asia Cup  
+162 = Eurocopa 
+163 = World Cup  
+164 = Konami Cup  
+165 = Reebok Cup
+171 = Premiership
+172 = Ligue 1
+173 = Bundesliga
+174 = Eredivisie
+175 = International League
+176 = Serie A
+177 = La Liga
+179 = D1 Cup
+180 = D1 League
+181 = D2 Cup
+182 = D2 League
+184 = WEFA Championship
+185 = WEFA Masters
+
+Solo deben editar las texturas y esto no se aplica a desafio internacional! ya que en ese modo
+se van a ver las placas originales
+
+Pato_Lucas18 

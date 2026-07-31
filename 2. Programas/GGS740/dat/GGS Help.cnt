@@ -1,0 +1,12 @@
+ * This contents file was created with the free trial version of HelpScribble 6.2.0
+ * Help files created with the free trial version must not be distributed.
+
+:BASE GGS Help.hlp
+:TITLE Game Graphic Studio Help
+:LINK BCB6VCL.HLP
+1 Game Graphic Studio Basic Information=Scribble10
+1 Introduction
+2 Getting Started=Scribble1000
+2 ISO and BIN files=Scribble1010
+2 AFS files=Scribble1020
+2 Window layout=Scribble1030
