@@ -1,0 +1,5 @@
+# Stadium information
+
+built = ????
+capacity = 40000
+city = ????

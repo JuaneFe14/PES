@@ -1,0 +1,5 @@
+VNRC AVN5 MTWX ADT6 FKEC
+
+
+
+pngquant --ext .png --force 256 *png
