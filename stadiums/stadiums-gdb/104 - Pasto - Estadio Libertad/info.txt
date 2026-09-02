@@ -1,0 +1,5 @@
+# Stadium information
+
+built = 1954
+capacity = 19000
+city = Pasto

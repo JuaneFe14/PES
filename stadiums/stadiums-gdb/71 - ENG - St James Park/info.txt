@@ -1,0 +1,5 @@
+# Stadium information
+
+built = 1892
+capacity = 52305
+city = Newcastle

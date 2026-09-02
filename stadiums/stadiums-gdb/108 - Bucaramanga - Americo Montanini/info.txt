@@ -1,0 +1,5 @@
+# Stadium information
+
+built = 1941
+capacity = 25000
+city = Bucaramanga

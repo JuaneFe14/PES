@@ -1,0 +1,6 @@
+# Stadium information
+
+built = 1938
+capacity = 36343
+city = Bogota
+

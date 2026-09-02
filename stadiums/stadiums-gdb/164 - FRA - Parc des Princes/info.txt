@@ -1,0 +1,6 @@
+# Stadium information
+
+Built = 1972
+capacity = 48712
+city = Paris
+

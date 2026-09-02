@@ -1,0 +1,5 @@
+# Stadium information
+
+built = 1994
+capacity = 42678
+city = Manizales

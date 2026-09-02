@@ -1,0 +1,5 @@
+# Stadium information
+
+built = 2012
+capacity = 12000
+city = Monteria

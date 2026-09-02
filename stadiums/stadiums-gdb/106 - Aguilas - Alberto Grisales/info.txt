@@ -1,0 +1,5 @@
+# Stadium information
+
+built = 2008
+capacity = 14000
+city = Rionegro

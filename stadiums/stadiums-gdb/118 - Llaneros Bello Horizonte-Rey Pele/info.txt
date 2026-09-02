@@ -1,0 +1,5 @@
+# Stadium information
+
+built = 1958
+capacity = 19000
+city = Villavicencio_Colombia

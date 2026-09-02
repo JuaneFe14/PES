@@ -1,0 +1,3 @@
+built = 1926
+capacity = 80074
+city = Milan

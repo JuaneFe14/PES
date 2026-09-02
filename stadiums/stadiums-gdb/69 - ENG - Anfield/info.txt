@@ -1,0 +1,6 @@
+# Stadium information
+
+built = 1884
+capacity = 54074
+city = Liverpool
+

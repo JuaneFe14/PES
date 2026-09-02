@@ -1,0 +1,5 @@
+# Stadium info file
+
+built = 2010
+capacity = 52000
+city = Palmira

@@ -1,0 +1,5 @@
+# Stadium information
+
+built = 1955
+capacity = 28200
+city = Ibague

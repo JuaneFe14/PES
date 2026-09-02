@@ -1,0 +1,3 @@
+built = 1938
+capacity = 84567
+city = Buenos_Aires

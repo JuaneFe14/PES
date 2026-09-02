@@ -1,0 +1,374 @@
+# Overall rating weights for PES Editor Deluxe.
+#
+# ---------------------------------------------------------------
+# HOW A RATING IS BUILT
+#
+#   rating = offset + sum over abilities of  weight x ability
+#
+# which is
+#
+#   75.28 + 1.60 x sum of  weight x (his ability - group average)
+#
+# written flat. The offset carries the "minus the group average"
+# part, which is why it is large and negative. So twenty points
+# above average on something his group is judged on counts for far
+# more than thirty above on something it is not.
+# goalkeeper   --   group: goalkeepers, 433
+[GK]
+offset              = -50.30
+Attack              = 0.000
+Defence             = 0.314
+Balance             = 0.166
+Stamina             = 0.000
+Top Speed           = 0.000
+Acceleration        = 0.018
+Response            = 0.219
+Agility             = 0.000
+Dribble Accuracy    = 0.000
+Dribble Speed       = 0.000
+Short Pass Accuracy = 0.000
+Short Pass Speed    = 0.000
+Long Pass Accuracy  = 0.000
+Long Pass Speed     = 0.019
+Shot Accuracy       = 0.000
+Shot Power          = 0.110
+Shot Technique      = 0.000
+Free Kick Accuracy  = 0.000
+Swerve              = 0.000
+Heading             = 0.000
+Jump                = 0.132
+Technique           = 0.000
+Aggression          = 0.002
+Mentality           = 0.123
+Goalkeeping         = 0.409
+Teamwork            = 0.088
+
+# sweeper -- scored as a centre back   --   group: centre backs and sweepers, 668
+[CWP]
+offset              = -44.66
+Attack              = 0.000
+Defence             = 0.424
+Balance             = 0.178
+Stamina             = 0.058
+Top Speed           = 0.032
+Acceleration        = 0.029
+Response            = 0.079
+Agility             = 0.000
+Dribble Accuracy    = 0.021
+Dribble Speed       = 0.024
+Short Pass Accuracy = 0.030
+Short Pass Speed    = 0.037
+Long Pass Accuracy  = 0.035
+Long Pass Speed     = 0.047
+Shot Accuracy       = 0.014
+Shot Power          = 0.066
+Shot Technique      = 0.018
+Free Kick Accuracy  = 0.000
+Swerve              = 0.000
+Heading             = 0.168
+Jump                = 0.122
+Technique           = 0.023
+Aggression          = 0.010
+Mentality           = 0.097
+Goalkeeping         = 0.000
+Teamwork            = 0.088
+
+# centre back   --   group: centre backs and sweepers, 668
+[CBT]
+offset              = -44.66
+Attack              = 0.000
+Defence             = 0.424
+Balance             = 0.178
+Stamina             = 0.058
+Top Speed           = 0.032
+Acceleration        = 0.029
+Response            = 0.079
+Agility             = 0.000
+Dribble Accuracy    = 0.021
+Dribble Speed       = 0.024
+Short Pass Accuracy = 0.030
+Short Pass Speed    = 0.037
+Long Pass Accuracy  = 0.035
+Long Pass Speed     = 0.047
+Shot Accuracy       = 0.014
+Shot Power          = 0.066
+Shot Technique      = 0.018
+Free Kick Accuracy  = 0.000
+Swerve              = 0.000
+Heading             = 0.168
+Jump                = 0.122
+Technique           = 0.023
+Aggression          = 0.010
+Mentality           = 0.097
+Goalkeeping         = 0.000
+Teamwork            = 0.088
+
+# side back   --   group: full backs and wing backs, 557
+[SB]
+offset              = -40.70
+Attack              = 0.034
+Defence             = 0.361
+Balance             = 0.043
+Stamina             = 0.140
+Top Speed           = 0.105
+Acceleration        = 0.074
+Response            = 0.033
+Agility             = 0.000
+Dribble Accuracy    = 0.045
+Dribble Speed       = 0.092
+Short Pass Accuracy = 0.036
+Short Pass Speed    = 0.049
+Long Pass Accuracy  = 0.098
+Long Pass Speed     = 0.114
+Shot Accuracy       = 0.002
+Shot Power          = 0.049
+Shot Technique      = 0.000
+Free Kick Accuracy  = 0.000
+Swerve              = 0.000
+Heading             = 0.034
+Jump                = 0.065
+Technique           = 0.033
+Aggression          = 0.042
+Mentality           = 0.064
+Goalkeeping         = 0.000
+Teamwork            = 0.087
+
+# wing back   --   group: full backs and wing backs, 557
+[WB]
+offset              = -40.70
+Attack              = 0.034
+Defence             = 0.361
+Balance             = 0.043
+Stamina             = 0.140
+Top Speed           = 0.105
+Acceleration        = 0.074
+Response            = 0.033
+Agility             = 0.000
+Dribble Accuracy    = 0.045
+Dribble Speed       = 0.092
+Short Pass Accuracy = 0.036
+Short Pass Speed    = 0.049
+Long Pass Accuracy  = 0.098
+Long Pass Speed     = 0.114
+Shot Accuracy       = 0.002
+Shot Power          = 0.049
+Shot Technique      = 0.000
+Free Kick Accuracy  = 0.000
+Swerve              = 0.000
+Heading             = 0.034
+Jump                = 0.065
+Technique           = 0.033
+Aggression          = 0.042
+Mentality           = 0.064
+Goalkeeping         = 0.000
+Teamwork            = 0.087
+
+# defensive midfielder   --   group: defensive and central midfielders, 620
+[DM]
+offset              = -41.39
+Attack              = 0.032
+Defence             = 0.319
+Balance             = 0.040
+Stamina             = 0.118
+Top Speed           = 0.025
+Acceleration        = 0.025
+Response            = 0.049
+Agility             = 0.000
+Dribble Accuracy    = 0.043
+Dribble Speed       = 0.029
+Short Pass Accuracy = 0.161
+Short Pass Speed    = 0.130
+Long Pass Accuracy  = 0.120
+Long Pass Speed     = 0.073
+Shot Accuracy       = 0.031
+Shot Power          = 0.052
+Shot Technique      = 0.023
+Free Kick Accuracy  = 0.000
+Swerve              = 0.000
+Heading             = 0.028
+Jump                = 0.036
+Technique           = 0.062
+Aggression          = 0.000
+Mentality           = 0.081
+Goalkeeping         = 0.000
+Teamwork            = 0.123
+
+# centre midfielder   --   group: defensive and central midfielders, 620
+[CM]
+offset              = -41.39
+Attack              = 0.032
+Defence             = 0.319
+Balance             = 0.040
+Stamina             = 0.118
+Top Speed           = 0.025
+Acceleration        = 0.025
+Response            = 0.049
+Agility             = 0.000
+Dribble Accuracy    = 0.043
+Dribble Speed       = 0.029
+Short Pass Accuracy = 0.161
+Short Pass Speed    = 0.130
+Long Pass Accuracy  = 0.120
+Long Pass Speed     = 0.073
+Shot Accuracy       = 0.031
+Shot Power          = 0.052
+Shot Technique      = 0.023
+Free Kick Accuracy  = 0.000
+Swerve              = 0.000
+Heading             = 0.028
+Jump                = 0.036
+Technique           = 0.062
+Aggression          = 0.000
+Mentality           = 0.081
+Goalkeeping         = 0.000
+Teamwork            = 0.123
+
+# attacking midfielder   --   group: attacking midfielders and second strikers, 404
+[AM]
+offset              = -47.14
+Attack              = 0.146
+Defence             = 0.000
+Balance             = 0.032
+Stamina             = 0.042
+Top Speed           = 0.049
+Acceleration        = 0.068
+Response            = 0.045
+Agility             = 0.000
+Dribble Accuracy    = 0.123
+Dribble Speed       = 0.082
+Short Pass Accuracy = 0.115
+Short Pass Speed    = 0.070
+Long Pass Accuracy  = 0.085
+Long Pass Speed     = 0.051
+Shot Accuracy       = 0.132
+Shot Power          = 0.045
+Shot Technique      = 0.128
+Free Kick Accuracy  = 0.000
+Swerve              = 0.000
+Heading             = 0.034
+Jump                = 0.036
+Technique           = 0.118
+Aggression          = 0.113
+Mentality           = 0.043
+Goalkeeping         = 0.000
+Teamwork            = 0.043
+
+# side midfielder   --   group: side midfielders and wingers, 529
+[SM]
+offset              = -44.71
+Attack              = 0.144
+Defence             = 0.000
+Balance             = 0.026
+Stamina             = 0.046
+Top Speed           = 0.100
+Acceleration        = 0.107
+Response            = 0.034
+Agility             = 0.000
+Dribble Accuracy    = 0.132
+Dribble Speed       = 0.128
+Short Pass Accuracy = 0.058
+Short Pass Speed    = 0.050
+Long Pass Accuracy  = 0.094
+Long Pass Speed     = 0.086
+Shot Accuracy       = 0.091
+Shot Power          = 0.047
+Shot Technique      = 0.078
+Free Kick Accuracy  = 0.000
+Swerve              = 0.000
+Heading             = 0.022
+Jump                = 0.037
+Technique           = 0.099
+Aggression          = 0.144
+Mentality           = 0.040
+Goalkeeping         = 0.000
+Teamwork            = 0.037
+
+# winger   --   group: side midfielders and wingers, 529
+[WG]
+offset              = -44.71
+Attack              = 0.144
+Defence             = 0.000
+Balance             = 0.026
+Stamina             = 0.046
+Top Speed           = 0.100
+Acceleration        = 0.107
+Response            = 0.034
+Agility             = 0.000
+Dribble Accuracy    = 0.132
+Dribble Speed       = 0.128
+Short Pass Accuracy = 0.058
+Short Pass Speed    = 0.050
+Long Pass Accuracy  = 0.094
+Long Pass Speed     = 0.086
+Shot Accuracy       = 0.091
+Shot Power          = 0.047
+Shot Technique      = 0.078
+Free Kick Accuracy  = 0.000
+Swerve              = 0.000
+Heading             = 0.022
+Jump                = 0.037
+Technique           = 0.099
+Aggression          = 0.144
+Mentality           = 0.040
+Goalkeeping         = 0.000
+Teamwork            = 0.037
+
+# second striker   --   group: attacking midfielders and second strikers, 404
+[SS]
+offset              = -47.14
+Attack              = 0.146
+Defence             = 0.000
+Balance             = 0.032
+Stamina             = 0.042
+Top Speed           = 0.049
+Acceleration        = 0.068
+Response            = 0.045
+Agility             = 0.000
+Dribble Accuracy    = 0.123
+Dribble Speed       = 0.082
+Short Pass Accuracy = 0.115
+Short Pass Speed    = 0.070
+Long Pass Accuracy  = 0.085
+Long Pass Speed     = 0.051
+Shot Accuracy       = 0.132
+Shot Power          = 0.045
+Shot Technique      = 0.128
+Free Kick Accuracy  = 0.000
+Swerve              = 0.000
+Heading             = 0.034
+Jump                = 0.036
+Technique           = 0.118
+Aggression          = 0.113
+Mentality           = 0.043
+Goalkeeping         = 0.000
+Teamwork            = 0.043
+
+# centre forward   --   group: centre forwards, 581
+[CF]
+offset              = -48.07
+Attack              = 0.192
+Defence             = 0.000
+Balance             = 0.043
+Stamina             = 0.031
+Top Speed           = 0.050
+Acceleration        = 0.059
+Response            = 0.090
+Agility             = 0.000
+Dribble Accuracy    = 0.047
+Dribble Speed       = 0.052
+Short Pass Accuracy = 0.032
+Short Pass Speed    = 0.032
+Long Pass Accuracy  = 0.027
+Long Pass Speed     = 0.029
+Shot Accuracy       = 0.201
+Shot Power          = 0.037
+Shot Technique      = 0.211
+Free Kick Accuracy  = 0.000
+Swerve              = 0.000
+Heading             = 0.098
+Jump                = 0.048
+Technique           = 0.061
+Aggression          = 0.194
+Mentality           = 0.034
+Goalkeeping         = 0.000
+Teamwork            = 0.032

@@ -1,0 +1,8 @@
+# Stadium information
+# Estadio General Santander-Cucuta by jhonstevenr
+# www.freewebs.com/pescolworld
+
+built = 1948
+capacity = 42000 
+city = Cúcuta
+

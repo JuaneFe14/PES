@@ -1,0 +1,5 @@
+# Stadium information
+
+built = 1986
+capacity = 49692
+city = Barranquilla

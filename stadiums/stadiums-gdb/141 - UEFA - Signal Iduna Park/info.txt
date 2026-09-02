@@ -1,0 +1,3 @@
+built = 1974
+capacity = 81360
+city = Dortmund

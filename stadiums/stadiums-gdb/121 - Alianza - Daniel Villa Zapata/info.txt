@@ -1,0 +1,5 @@
+# Stadium information
+
+Built = 1970
+capacity = 10400
+city = Barrancabermeja

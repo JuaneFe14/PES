@@ -1,0 +1,3 @@
+built = 1937
+capacity = 72698
+city = Roma

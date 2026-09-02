@@ -1,0 +1,5 @@
+# Stadium information
+
+built = 1909
+capacity = 74879
+city = Manchester

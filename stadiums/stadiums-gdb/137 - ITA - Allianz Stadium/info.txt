@@ -1,0 +1,5 @@
+# Stadium information
+
+built = 2011
+capacity = 41507
+city = Turin

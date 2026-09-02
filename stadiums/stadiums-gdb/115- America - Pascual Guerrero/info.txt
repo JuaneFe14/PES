@@ -1,0 +1,5 @@
+# Stadium information
+
+built = 1937
+capacity = 38861
+city = Cali
