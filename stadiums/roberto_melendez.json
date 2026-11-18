@@ -1,0 +1,310 @@
+{
+  "trapos": {
+    "on": false,
+    "densidad": "pocos",
+    "juegos": [
+      {
+        "imgs": [],
+        "plantilla": null,
+        "clasica": null
+      },
+      {
+        "imgs": [],
+        "plantilla": null,
+        "clasica": null
+      },
+      {
+        "imgs": [],
+        "plantilla": null,
+        "clasica": null
+      },
+      {
+        "imgs": [],
+        "plantilla": null,
+        "clasica": null
+      }
+    ],
+    "asig": {
+      "P": -1,
+      "O": -1,
+      "I": -1,
+      "D": -1
+    },
+    "anillo": "todos"
+  },
+  "publico": true,
+  "anio": "1980",
+  "cielo": "dia",
+  "nombre": "Roberto Melendez",
+  "lados": {
+    "P": {
+      "tipo": "superpuesta",
+      "techo": "inclinado"
+    },
+    "O": {
+      "tipo": "superpuesta",
+      "techo": "inclinado"
+    },
+    "I": {
+      "tipo": "superpuesta",
+      "techo": "inclinado",
+      "forma": "ovalada",
+      "muro": false
+    },
+    "D": {
+      "tipo": "superpuesta",
+      "techo": "inclinado",
+      "forma": "ovalada",
+      "muro": false,
+      "alambrado": "ninguno"
+    }
+  },
+  "esquinas": {
+    "OI": "cerrada",
+    "OD": "cerrada",
+    "PI": "cerrada",
+    "PD": "cerrada"
+  },
+  "colores": {
+    "butacaA": "#ffffff",
+    "butacaB": "#e01b24",
+    "patron": "niveles",
+    "estructura": "#1a5fb4",
+    "techo": "#9a9996"
+  },
+  "cesped": {
+    "patron": "rayas",
+    "tono": "oscuro"
+  },
+  "pista": true,
+  "luces": "techo",
+  "paisaje": {
+    "tipo": "ciudad",
+    "imgs": {
+      "P": null,
+      "O": null,
+      "I": null,
+      "D": null
+    }
+  },
+  "ident": {
+    "nombreTam": "normal",
+    "nombreImg": null,
+    "led": {
+      "on": false,
+      "textos": [
+        "",
+        "¡GOOOOL!",
+        "",
+        ""
+      ],
+      "fg": "#f2c230",
+      "bg": "#050608"
+    },
+    "pantalla": {
+      "lugar": "cabD",
+      "img": null
+    },
+    "nombreLugar": "no",
+    "escudo": null,
+    "escudoLugar": "no",
+    "letras": {
+      "on": false,
+      "texto": "",
+      "grada": "O",
+      "color": null,
+      "esp": "junto"
+    },
+    "publi": {
+      "anillos": false,
+      "techo": false,
+      "marcas": "Nada",
+      "logos": []
+    }
+  },
+  "barra": {
+    "gradas": {
+      "P": false,
+      "O": false,
+      "I": false,
+      "D": false
+    },
+    "banderas": false,
+    "tirantes": false,
+    "sombrillas": false,
+    "telon": false,
+    "cantidad": "pocos",
+    "tirCol": [
+      "#c8102e",
+      "#f2f2f2",
+      "#ffffff"
+    ],
+    "tirModo": "alternados",
+    "tirN": 3,
+    "tirAncho": "normal",
+    "bandas": false,
+    "banderones": false,
+    "bigImgs": [],
+    "bandaSets": {
+      "P": [
+        {
+          "on": true,
+          "texto": "LA MEJOR HINCHADA DEL MUNDO",
+          "img": null
+        },
+        {
+          "on": false,
+          "texto": "",
+          "img": null
+        },
+        {
+          "on": true,
+          "texto": "SIEMPRE PRESENTES",
+          "img": null
+        }
+      ],
+      "O": [
+        {
+          "on": true,
+          "texto": "LA MEJOR HINCHADA DEL MUNDO",
+          "img": null
+        },
+        {
+          "on": false,
+          "texto": "",
+          "img": null
+        },
+        {
+          "on": true,
+          "texto": "SIEMPRE PRESENTES",
+          "img": null
+        }
+      ],
+      "I": [
+        {
+          "on": true,
+          "texto": "LA MEJOR HINCHADA DEL MUNDO",
+          "img": null
+        },
+        {
+          "on": false,
+          "texto": "",
+          "img": null
+        },
+        {
+          "on": true,
+          "texto": "SIEMPRE PRESENTES",
+          "img": null
+        }
+      ],
+      "D": [
+        {
+          "on": true,
+          "texto": "LA MEJOR HINCHADA DEL MUNDO",
+          "img": null
+        },
+        {
+          "on": false,
+          "texto": "",
+          "img": null
+        },
+        {
+          "on": true,
+          "texto": "SIEMPRE PRESENTES",
+          "img": null
+        }
+      ]
+    }
+  },
+  "barraV": {
+    "on": false,
+    "grada": "P",
+    "banderas": false,
+    "tirantes": false,
+    "sombrillas": false,
+    "telon": false,
+    "banderones": false,
+    "bandas": false,
+    "cantidad": "pocos",
+    "tirCol": [
+      "#1b2a4a",
+      "#f0f0ea",
+      "#c8102e"
+    ],
+    "tirN": 2,
+    "tirModo": "alternados",
+    "tirAncho": "normal",
+    "bigImgs": [],
+    "telonTxt": "LA BARRA VISITANTE"
+  },
+  "pubMuro": {
+    "on": false,
+    "anillo": "todos",
+    "sets": {
+      "P": [],
+      "O": [],
+      "I": [],
+      "D": []
+    }
+  },
+  "clima": "fine",
+  "adbTex": false,
+  "estilos": {
+    "P": {
+      "butacaA": "#1a5fb4",
+      "butacaB": "#e01b24",
+      "patron": "niveles",
+      "estructura": "#ffffff",
+      "techo": "#9a9996"
+    },
+    "O": {
+      "butacaA": "#1a5fb4",
+      "butacaB": "#e01b24",
+      "patron": "niveles",
+      "estructura": "#ffffff",
+      "techo": "#9a9996"
+    },
+    "I": {
+      "butacaA": "#1a5fb4",
+      "butacaB": "#e01b24",
+      "patron": "niveles",
+      "estructura": "#ffffff",
+      "techo": "#9a9996"
+    },
+    "D": {
+      "butacaA": "#1a5fb4",
+      "butacaB": "#e01b24",
+      "patron": "niveles",
+      "estructura": "#ffffff",
+      "techo": "#9a9996"
+    },
+    "OI": {
+      "butacaA": "#1a5fb4",
+      "butacaB": "#e01b24",
+      "patron": "niveles",
+      "estructura": "#ffffff",
+      "techo": "#9a9996"
+    },
+    "OD": {
+      "butacaA": "#1a5fb4",
+      "butacaB": "#e01b24",
+      "patron": "niveles",
+      "estructura": "#ffffff",
+      "techo": "#9a9996"
+    },
+    "PI": {
+      "butacaA": "#1a5fb4",
+      "butacaB": "#e01b24",
+      "patron": "niveles",
+      "estructura": "#ffffff",
+      "techo": "#9a9996"
+    },
+    "PD": {
+      "butacaA": "#1a5fb4",
+      "butacaB": "#e01b24",
+      "patron": "niveles",
+      "estructura": "#ffffff",
+      "techo": "#9a9996"
+    }
+  }
+}
